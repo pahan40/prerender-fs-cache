@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "prerender-fs-cache",
+        "scope": null,
+        "escapedName": "prerender-fs-cache",
+        "name": "prerender-fs-cache",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/pavel/prerendercache/prerender"
+    ]
+  ],
+  "_from": "prerender-fs-cache@latest",
+  "_id": "prerender-fs-cache@0.0.2",
+  "_inCache": true,
+  "_location": "/prerender-fs-cache",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/prerender-fs-cache_0.0.2_1520876634461_0.4769374970026963"
+  },
+  "_npmUser": {
+    "name": "pahan40",
+    "email": "pahan40@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "prerender-fs-cache",
+    "scope": null,
+    "escapedName": "prerender-fs-cache",
+    "name": "prerender-fs-cache",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/prerender-fs-cache/-/prerender-fs-cache-1.0.2.tgz",
+  "_shasum": "4afa2474376834b99e3272ee8b86cf19cadb2aec",
+  "_shrinkwrap": null,
+  "_spec": "prerender-fs-cache",
+  "_where": "/home/pavel/prerendercache/prerender",
+  "author": {
+    "name": "Todd Hooper"
+  },
+  "dependencies": {
+    "cache-manager": "^2.6.0"
+  },
+  "description": "In memory cache for use with Prerender server",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4afa2474376834b99e3272ee8b86cf19cadb2aec",
+    "tarball": "https://registry.npmjs.org/prerender-fs-cache/-/prerender-fs-cache-1.0.2.tgz",
+    "fileCount": 5,
+    "unpackedSize": 3998
+  },
+  "gitHead": "1333d6aff364209b8e8dd3c085d6976cb3d5482e",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "pahan40",
+      "email": "pahan40@gmail.com"
+    }
+  ],
+  "name": "prerender-fs-cache",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.2"
+}
